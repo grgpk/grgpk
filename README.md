@@ -118,17 +118,17 @@ _Understanding how LLMs work allows me to maximize their potential while maintai
 
 ### 🎯 [Project Name 1](https://github.com/grgpk/project1)
 
-**Tech Stack:** React · Redux · TypeScript · Tailwind CSS · Node.js  
+**Tech Stack:** React · Redux · TypeScript · Tailwind CSS · Node.js
 A full-stack application demonstrating advanced state management and responsive UI design. Features include...
 
 ### 🚀 [Project Name 2](https://github.com/grgpk/project2)
 
-**Tech Stack:** Angular · NgRx · NestJS · TanStack Query  
+**Tech Stack:** Angular · NgRx · NestJS · TanStack Query
 Enterprise-grade solution with complex data flows and real-time updates. Implemented...
 
 ### ⚡ [Project Name 3](https://github.com/grgpk/project3)
 
-**Tech Stack:** React · SignalStore · Express · AI Integration  
+**Tech Stack:** React · SignalStore · Express · AI Integration
 Innovative project leveraging AI-driven features to enhance user experience...
 
 --- -->
@@ -157,9 +157,9 @@ I'm always interested in:
 ## 📫 How to Reach Me
 
 - 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/giorgi-paikidze)
-- 🌐 **Portfolio:** [yourportfolio.com](https://coming-soon)
+<!-- - 🌐 **Portfolio:** [yourportfolio.com](https://coming-soon) -->
 - 📧 **Email:** grgpaikidze@gmail.com
-- 🐦 **Twitter:** [@yourhandle](https://twitter.com/coming-soon)
+<!-- - 🐦 **Twitter:** [@yourhandle](https://twitter.com/coming-soon) -->
 
 ---
 
