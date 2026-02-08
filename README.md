@@ -104,11 +104,11 @@ _Understanding how LLMs work allows me to maximize their potential while maintai
 
 <div align="center">
   
-![grgpk's GitHub stats](https://github-readme-stats.vercel.app/api?username=grgpk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![grgpk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=grgpk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grgpk&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grgpk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grgpk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
 
 </div>
 
