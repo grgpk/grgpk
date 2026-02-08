@@ -114,7 +114,7 @@ _Understanding how LLMs work allows me to maximize their potential while maintai
 
 ---
 
-## 🏆 Featured Projects
+<!-- ## 🏆 Featured Projects
 
 ### 🎯 [Project Name 1](https://github.com/grgpk/project1)
 
@@ -131,7 +131,7 @@ Enterprise-grade solution with complex data flows and real-time updates. Impleme
 **Tech Stack:** React · SignalStore · Express · AI Integration  
 Innovative project leveraging AI-driven features to enhance user experience...
 
----
+--- -->
 
 ## 💼 What I'm Working On
 
