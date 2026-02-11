@@ -156,7 +156,7 @@ I'm always interested in:
 
 ## 📫 How to Reach Me
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/giorgi-paikidze)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/giorgi-paikidze)
 <!-- - 🌐 **Portfolio:** [yourportfolio.com](https://coming-soon) -->
 - 📧 **Email:** grgpaikidze@gmail.com
 <!-- - 🐦 **Twitter:** [@yourhandle](https://twitter.com/coming-soon) -->
