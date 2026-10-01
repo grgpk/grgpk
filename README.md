@@ -81,25 +81,6 @@ let grgpk = Engineer {
 
 ---
 
-## 🦀 Rust Stats
-
-<p align="center">
-  <a href="https://github.com/grgpk/rust-task-manager">
-    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=grgpk&repo=rust-task-manager&theme=tokyonight&hide_border=true" alt="rust-task-manager" />
-  </a>
-  <a href="https://github.com/grgpk/signer-api">
-    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=grgpk&repo=signer-api&theme=tokyonight&hide_border=true" alt="signer-api" />
-  </a>
-  <a href="https://github.com/grgpk/sentinel">
-    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=grgpk&repo=sentinel&theme=tokyonight&hide_border=true" alt="sentinel" />
-  </a>
-  <a href="https://github.com/grgpk/rust-projects">
-    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=grgpk&repo=rust-projects&theme=tokyonight&hide_border=true" alt="rust-projects" />
-  </a>
-</p>
-
----
-
 ## 🤝 Let's Collaborate!
 
 I'm always interested in:
