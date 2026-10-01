@@ -73,7 +73,7 @@ let grgpk = Engineer {
 
 <p align="center">
   <a href="https://github.com/grgpk/cadence">
-    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=grgpk&repo=cadence&theme=tokyonight&hide_border=true" alt="cadence" />
+    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=grgpk&repo=cadence&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="cadence" />
   </a>
 </p>
 
